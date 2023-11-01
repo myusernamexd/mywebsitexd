@@ -37,6 +37,7 @@ html {
     text-decoration:none;
     color: inherit;
     font-size: 1vw;
+    line-height: 1vh;
 }
 .nav-bar li:hover {
     font-size: 28px;
