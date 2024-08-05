@@ -1,8 +1,8 @@
 * {
-    padding: 10px;
-    margin: 10px;
+    padding: null;
+    margin: null;
     background: black;
-    color: white;
+    font-color: white;
     box-sizing: border-box;
     text-align: center;
 }
