@@ -8,9 +8,10 @@ body, h1, h2, p {
 /* Basic styling */
 body {
     font-family: Arial, sans-serif;
-    background-image: url("https://giphy.com/embed/28G2PR8gNEJSGlOwG1/video");
+    background-image: url("citybackground.gif");
     background-attachment: fixed;
-    background-opacity: 0.6;
+    background-opacity: 0.8;
+    background-repeat: no-repeat;
     color: black;
     line-height: 1.6;
 }
