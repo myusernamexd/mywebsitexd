@@ -8,7 +8,7 @@ body, h1, h2, p {
 /* Basic styling */
 body {
     font-family: Arial, sans-serif;
-    background-image: url("/portfolio/4331C53E-5273-4821-ACE0-8DA09FBDD768_1_105_c.jpeg");
+    background-image: url("4331C53E-5273-4821-ACE0-8DA09FBDD768_1_105_c.jpeg");
     background-attachment: fixed;
     background-opacity: 0.6;
     color: black;
