@@ -17,10 +17,11 @@ body {
     line-height: 1.6;
 }
 button {
-  background-color: #e7e7e7; /* Gray */ 
+  background-color: #e7e7e7; /* Gray */
   border: none;
   color: black;
   padding: 15px 32px;
+    margin: 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
