@@ -15,3 +15,6 @@ tr:nth-child(even) {
 td{
   table-layout: fixed;
 }
+button{
+  justify-content: center;
+}
