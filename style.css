@@ -2,7 +2,7 @@ button, p, tr, input {
     margin:15px;
     display: flex;
     align-content: row;
-    justify-content: space-between;
+    justify-content: space-evenly;
     
 }
 td, th {
