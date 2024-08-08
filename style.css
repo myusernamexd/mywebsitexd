@@ -1,9 +1,7 @@
 button, p, tr, input {
     margin:15px;
     display: flex;
-    align-content: center;
-    justify-content: flex-start;
-}
-input {
-    justify-content: flex-end;
+    align-content: space-between;
+    justify-content: row;
+    
 }
