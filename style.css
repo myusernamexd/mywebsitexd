@@ -4,3 +4,6 @@ button, p, tr, input {
     align-content: center;
     justify-content: flex-start;
 }
+input {
+    justify-content: flex-end;
+}
