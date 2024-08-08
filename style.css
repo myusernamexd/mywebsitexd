@@ -18,7 +18,7 @@ tr{
     align-content:center;
 }
 td{
-  table-layout: fixed;
+  table-layout: auto;
 }
 button{
   align-content: center;
