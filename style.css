@@ -8,10 +8,10 @@ td, th {
 border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;}
+width: max-width;
 }
 td{
   table-layout: fixed;
-width:100%;
 }
 button{
   align-content: center;
