@@ -1,8 +1,8 @@
 button, p, tr, input {
     margin:15px;
     display: flex;
-    align-content: row;
-    justify-content: space-evenly;
+    align-content: center;
+    justify-content: space-around;
     
 }
 td, th {
@@ -11,11 +11,6 @@ border: 1px solid #dddddd;
   padding: 8px;}
 tr {width: 33%;
 }
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-tr{
-    align-content:center;
 }
 td{
   table-layout: auto;
