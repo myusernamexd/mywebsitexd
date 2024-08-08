@@ -16,3 +16,8 @@ td{
 button{
   align-content: center;
 }
+#buttonList{
+    display: flex;
+    justify-content: row;
+    align-content: center;
+}
