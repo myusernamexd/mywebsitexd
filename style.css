@@ -1,1 +1,6 @@
-
+button, p, tr {
+    margin:15px;
+    display: flex;
+    align-content: center;
+    justify-content: flex-start;
+}
