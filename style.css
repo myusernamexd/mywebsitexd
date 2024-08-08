@@ -2,7 +2,7 @@ button, p, tr, input {
     margin:15px;
     display: flex;
     align-content: row;
-    justify-content: space-evenly;
+    justify-content: space-between;
     
 }
 td, th {
@@ -13,6 +13,9 @@ tr {width: 33%;
 }
 tr:nth-child(even) {
   background-color: #dddddd;
+}
+tr{
+    align-content:center;
 }
 td{
   table-layout: fixed;
