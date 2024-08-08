@@ -1,4 +1,4 @@
-button, p, tr {
+button, p, tr, input {
     margin:15px;
     display: flex;
     align-content: center;
